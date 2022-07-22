@@ -1,0 +1,8 @@
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\bin\Debug\AsalSayii.exe.config
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\bin\Debug\AsalSayii.exe
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\bin\Debug\AsalSayii.pdb
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\obj\Debug\AsalSayii.csproj.AssemblyReference.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\obj\Debug\AsalSayii.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\obj\Debug\AsalSayii.csproj.CoreCompileInputs.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\obj\Debug\AsalSayii.exe
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\AsalSayii\AsalSayii\obj\Debug\AsalSayii.pdb
